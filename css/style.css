@@ -5,7 +5,9 @@
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i');
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i');
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -144,6 +146,11 @@ ul, li, ol{
 	list-style: none;
 	margin: 0px;
 	padding: 0px;
+}
+#announce{
+    list-style: disc;
+    margin: 5px;
+	padding: 2px;
 }
 button:focus{
 	outline: none;
@@ -552,7 +559,7 @@ button:focus{
 }
 .title-box h2 {
     font-size: 75px;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Lobster', Poppins;
     color: #e91327;
     font-weight: 400;
     padding: 0;
@@ -744,7 +751,7 @@ figure.effect-service h2 {
     font-size: 34px;
     color: #ffffff;
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Lobster', Robotto;
 }
 
 figure.effect-service p {
@@ -1342,7 +1349,7 @@ select.form-control:not([size]):not([multiple]){
 -------------------------------------------------------------------*/
 
 .subscribe-box {
-    padding: 70px 0px;
+    padding: 20px 0px;
     background: #e91327;
 }
 
@@ -1356,7 +1363,7 @@ select.form-control:not([size]):not([multiple]){
     font-size: 80px;
     font-weight: 600;
     color: #ffffff;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Lobster', Poppins;
     padding: 0;
 }
 
