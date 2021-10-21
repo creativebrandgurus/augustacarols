@@ -552,7 +552,7 @@ button:focus{
 
 
 .about-box{
-	padding: 90px 0px;
+	padding: 100px 0px;
 }
 
 .title-box{
@@ -1342,7 +1342,7 @@ select.form-control:not([size]):not([multiple]){
 
 .footer-box {
     background: #ccc;
-    padding: 20px 0;\
+    padding: 20px 0;
 }
 
 .footer-box .footer-company-name {
